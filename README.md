@@ -189,6 +189,13 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 ---
 
 Enjoy building and managing quizzes with the **Quiz Management System**!
-```
+## 🖼️ Screenshots
+
+### 1. Home Page
+![Home Page]<img width="1920" height="894" alt="Screenshot 2025-10-31 212710" src="https://github.com/user-attachments/assets/f62a0660-24f1-4941-942e-4b3f0296225c" />
+
+
+
+
 
 ----------------------------------------------
