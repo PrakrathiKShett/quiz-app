@@ -1,0 +1,11 @@
+{
+  "watch": ["."],
+  "ext": "js,json",
+  "ignore": [
+    "node_modules",
+    ".env",
+    "*.log",
+    "package-lock.json"
+  ],
+  "delay": "1000"
+}
